@@ -1,0 +1,52 @@
+*{
+    font-family: "Poppins";
+
+  }
+
+  body{
+    background-color: #f5f4f4;
+  }
+
+  .heading{
+    text-align: center;
+    margin-top: 150px;
+  }
+  .value{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 70px;
+  }
+
+  .buttons{
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .increase{
+    color: white;
+    background-color: green;
+    border: 0;
+    outline: 0;
+    font-size: 14px;
+    padding: 6px;
+  }
+
+  .decrease{
+    color: white;
+    background-color: red;
+    border: 0;
+    outline: 0;
+    font-size: 14px;
+    padding: 6px;
+    margin-left: 20px;
+  }
+
+  .reset{
+    color: white;
+    background-color:blue;
+    border: 0;
+    outline: 0;
+    font-size: 14px;
+    padding: 6px;
+    margin-left: 20px;
+  }
